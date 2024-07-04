@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Arquivo de configuração local
+.env
+
+# Arquivos de build
+dist/
